@@ -1,4 +1,4 @@
-# i3dots
+# i3
 Dotfiles for my i3wm setup
 
 # Dependencies
@@ -8,5 +8,6 @@ Dotfiles for my i3wm setup
 <li>feh</li>
 <li>maim</li>
 <li>xclip</li>
+<li>picom</li>
 
 The above depencencies can be installed with pacman.
